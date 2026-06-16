@@ -1,0 +1,508 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/dxrk2f",
+    "id": "dxrk2f",
+    "slide": 1,
+    "layoutId": "b7e5ff97-4fa1-43d8-bdc5-55a9f0c1b38d",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e4d235ab-d9fd-476c-947f-7d4facd249f4",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#1E3A8A",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b7e5ff97-4fa1-43d8-bdc5-55a9f0c1b38d",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e4d235ab-d9fd-476c-947f-7d4facd249f4",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e4d235ab-d9fd-476c-947f-7d4facd249f4",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m94fu18",
+      "id": "1",
+      "bbox": [
+        72,
+        56,
+        210,
+        34
+      ],
+      "geometry": "roundRect",
+      "text": "10 minutos · 3 integrantes",
+      "textPreview": "10 minutos · 3 integrantes",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10 minutos · 3 integrantes"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10 minutos · 3 integrantes",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10 minutos · 3 integrantes",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#06B6D4",
+      "lineColor": "#06B6D4",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72x4nap",
+      "id": "2",
+      "name": "cover-title",
+      "bbox": [
+        72,
+        150,
+        820,
+        160
+      ],
+      "geometry": "rect",
+      "text": "Memoria a largo plazo en un Agentic RAG",
+      "textPreview": "Memoria a largo plazo en un Agentic RAG",
+      "resolvedFontSize": 58,
+      "resolvedTextStyle": {
+        "fontSize": 58,
+        "typeface": "Aptos Display",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Memoria a largo plazo en un"
+          },
+          {
+            "index": 2,
+            "text": "Agentic RAG"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Memoria a largo plazo en un Agentic RAG",
+          "resolvedTextStyle": {
+            "fontSize": 58,
+            "typeface": "Aptos Display",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Memoria a largo plazo en un Agentic RAG",
+              "fontSize": 58,
+              "typeface": "Aptos Display",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lszqtcj6",
+      "id": "3",
+      "name": "cover-sub",
+      "bbox": [
+        74,
+        332,
+        760,
+        90
+      ],
+      "geometry": "rect",
+      "text": "Estrategias, integración con el pipeline RAG e impacto en calidad, costo y coherencia",
+      "textPreview": "Estrategias, integración con el pipeline RAG e impacto en calidad, costo y coherencia",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "Aptos",
+        "color": "#DBEAFE",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Estrategias, integración con el pipeline RAG e impacto en calidad,"
+          },
+          {
+            "index": 2,
+            "text": "costo y coherencia"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Estrategias, integración con el pipeline RAG e impacto en calidad, costo y coherencia",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Aptos",
+            "color": "#DBEAFE",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Estrategias, integración con el pipeline RAG e impacto en calidad, costo y coherencia",
+              "fontSize": 25,
+              "typeface": "Aptos",
+              "color": "#DBEAFE",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adsji5sn",
+      "id": "4",
+      "name": "cover-box",
+      "bbox": [
+        900,
+        138,
+        300,
+        354
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#FFFFFF",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ylc7u54",
+      "id": "5",
+      "name": "cover-box-title",
+      "bbox": [
+        930,
+        178,
+        240,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Idea central",
+      "textPreview": "Idea central",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#1E3A8A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Idea central"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Idea central",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#1E3A8A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Idea central",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#1E3A8A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sji5snel",
+      "id": "6",
+      "name": "cover-box-copy",
+      "bbox": [
+        930,
+        230,
+        235,
+        170
+      ],
+      "geometry": "rect",
+      "text": "La memoria permite que el agente no empiece de cero en cada conversación: recuerda preferencias, hechos estables y contexto útil del usuario.",
+      "textPreview": "La memoria permite que el agente no empiece de cero en cada conversación: recuerda preferencias, hechos estables y contexto útil del usua...",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Aptos",
+        "color": "#475569",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "La memoria permite"
+          },
+          {
+            "index": 2,
+            "text": "que el agente no"
+          },
+          {
+            "index": 3,
+            "text": "empiece de cero en"
+          },
+          {
+            "index": 4,
+            "text": "cada conversación:"
+          },
+          {
+            "index": 5,
+            "text": "recuerda"
+          },
+          {
+            "index": 6,
+            "text": "preferencias, hechos"
+          },
+          {
+            "index": 7,
+            "text": "estables y contexto"
+          },
+          {
+            "index": 8,
+            "text": "útil del usuario."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "La memoria permite que el agente no empiece de cero en cada conversación: recuerda preferencias, hechos estables y contexto útil del usuario.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Aptos",
+            "color": "#475569",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "La memoria permite que el agente no empiece de cero en cada conversación: recuerda preferencias, hechos estables y contexto útil del usuario.",
+              "fontSize": 22,
+              "typeface": "Aptos",
+              "color": "#475569",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "7",
+      "name": "cover-footer",
+      "bbox": [
+        72,
+        652,
+        760,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Taller de Tecnologías 2 · Obligatorio abril 2026",
+      "textPreview": "Taller de Tecnologías 2 · Obligatorio abril 2026",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#BFDBFE",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Taller de Tecnologías 2 · Obligatorio abril 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Taller de Tecnologías 2 · Obligatorio abril 2026",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#BFDBFE",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Taller de Tecnologías 2 · Obligatorio abril 2026",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#BFDBFE",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
