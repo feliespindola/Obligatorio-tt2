@@ -1,7 +1,0 @@
-Sources and provenance
-
-User-provided source: tt2202604ob.pdf, Letra obligatorio TT2 Abril 2026, local course assignment. Used for assignment goal and requirements: Agentic RAG, document RAG, memory short/long term, LangGraph, chatbot, documentation.
-
-User-provided source: Obligatorio.ipynb, local notebook. Used for implementation claims: Food.com recipes ingestion, 30,000 recipe vectors, six paper/document ingestion, 2,649 paper chunks, Pinecone namespaces, save_memory, recall_memory, LangGraph, Gradio UI, Alice/Bob demo.
-
-No external logos, screenshots, or generated raster assets used. All diagrams are editable shapes created with @oai/artifact-tool.
